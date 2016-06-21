@@ -1,4 +1,4 @@
-# Icepole
+# ICEPOLE
 
 ICEPOLE is an authenticated encryption scheme taking part in the [CAESAR competition](http://competitions.cr.yp.to/caesar.html).
 
